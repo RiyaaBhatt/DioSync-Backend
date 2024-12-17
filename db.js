@@ -13,4 +13,3 @@ const mysql=require("mysql2")
                     console.log('Connected to the MySQL database.');
                 });
 module.exports=db
-
